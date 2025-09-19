@@ -181,10 +181,7 @@ print("✅ Black card created. File > Save As to make a .blend")  # console mess
 ## How to Add Your Demo Image
 
 1. Place your screenshot next to this README as `demo.png` (or any name you like).  
-2. Update the image reference at the top:  
-   ```md
-   ![Demo — add your screenshot here](./your-image-name.png)
-   ```
+2. Update the image reference at the top
 
 ---
 
